@@ -41,7 +41,7 @@ Localização de uma flag utilizando a estrutura de arquivos do Linux.
 
 Arquivo investigado: note.txt
 
-Resultado: Flag encontrada e validada pela plataforma TryHackMe.
+Resultado: Flag encontrada e validada pela plataforma TryHackMe: THM{new_pc_for_free!}
 
 Resultados do laboratório
 Informação	Resultado
