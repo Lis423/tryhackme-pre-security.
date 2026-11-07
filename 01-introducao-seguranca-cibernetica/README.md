@@ -1,4 +1,4 @@
-# 01 — Introdução à Segurança Cibernética
+# Introdução à Segurança Cibernética
 
 Módulo introdutório da trilha Pre Security do TryHackMe.
 
