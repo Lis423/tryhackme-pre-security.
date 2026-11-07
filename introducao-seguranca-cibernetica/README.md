@@ -40,4 +40,16 @@ Nesta sala, são apresentados conceitos relacionados à segurança defensiva e �
 - Análise de Malware.
 - SIEM.
 
-### 3. Carreiras
+### 3. Carreiras em Cibersegurança
+
+[Acessar sala no TryHackMe](https://tryhackme.com/room/careersincyber)
+
+Nesta sala, são apresentadas diferentes áreas de atuação em cibersegurança, mostrando algumas das funções e responsabilidades dos profissionais desse setor.
+
+## Revisão
+
+[Resumo do módulo no TryHackMe](https://tryhackme.com/recap/6aee23b583c77f0a478147ce)
+
+## Organização dos arquivos
+
+As evidências da atividade prática estão armazenadas na pasta `screenshots` deste módulo.
