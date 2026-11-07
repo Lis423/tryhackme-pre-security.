@@ -1,17 +1,31 @@
-TryHackMe: Pre Security
+# TryHackMe: Pre Security
 
 Anotações, estudos e laboratórios práticos desenvolvidos durante minha jornada de aprendizado na trilha Pre Security, da plataforma TryHackMe.
 
-Objetivo
+## Objetivo
 
-Construir uma base sólida em Segurança da Informação, compreendendo os fundamentos de redes, sistemas operacionais, Linux, Windows e cibersegurança.
+Construir uma base sólida em Segurança da Informação, compreendendo os fundamentos de computação, sistemas operacionais, redes e cibersegurança.
 
-Módulos estudados
-Sistemas Operacionais (Operating Systems) Concluído.
-Documentação
+## Módulos da trilha
 
-Este repositório reúne resumos dos conteúdos estudados, conhecimentos adquiridos e evidências das atividades práticas realizadas.
+- [x] 01. Introdução à Segurança Cibernética
+- [x] 02. Fundamentos de Computação
+- [ ] 03. Noções básicas de Sistemas Operacionais
+- [ ] 04. Noções básicas de Software
+- [ ] 05. Fundamentos de Rede
+- [ ] 06. Como funciona a Web
+- [ ] 07. Ataques e Defesas
 
-Plataforma: TryHackMe
+## Documentação
 
-Trilha: Pre Security
+Cada módulo possui sua própria pasta, com documentação, anotações e evidências das atividades práticas realizadas.
+
+## Meu perfil no TryHackMe
+
+[ Acessar meu perfil pessoal no TryHackMe](https://tryhackme.com/p/Lis423)
+
+## Plataforma
+
+- Plataforma: TryHackMe
+- Trilha: Pre Security
+- Área de estudo: Segurança da Informação e Cibersegurança
