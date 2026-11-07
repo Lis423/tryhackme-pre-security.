@@ -1,6 +1,6 @@
 # Introdução à Segurança Cibernética
 
-Este é o primeiro módulo da trilha Pre Security do TryHackMe. Nele, comecei a conhecer a área de cibersegurança, aprendendo sobre segurança ofensiva, segurança defensiva e algumas possibilidades de carreira.
+Este é o primeiro módulo da trilha Pre Security do TryHackMe. Nele, tive meu primeiro contato com a área de cibersegurança, conhecendo conceitos de segurança ofensiva, segurança defensiva e algumas das possibilidades de carreira.
 
 ## Salas do módulo
 
@@ -8,51 +8,34 @@ Este é o primeiro módulo da trilha Pre Security do TryHackMe. Nele, comecei a 
 
 [Acessar sala no TryHackMe](https://tryhackme.com/room/offensivesecurityintro)
 
-Nesta sala, tive meu primeiro contato com hacking ético. A atividade foi realizada em um ambiente seguro, utilizando um site bancário fictício chamado FakeBank.
+Nesta atividade, utilizei o FakeBank, um site bancário fictício disponibilizado pelo TryHackMe, para entender como funciona uma prática de segurança ofensiva em um ambiente controlado.
 
 **O que aprendi na prática:**
 
-- A diferença entre segurança ofensiva e defensiva.
 - Como utilizar o terminal Linux.
-- Como usar a ferramenta Dirb para encontrar páginas ocultas em um site.
+- Como executar a ferramenta Dirb.
+- Como procurar diretórios e páginas em um site.
 - Como identificar um painel administrativo.
-- Como explorar uma falha em um ambiente de testes.
+- Como explorar uma vulnerabilidade em um ambiente de testes.
 
 **Atividade realizada:**
 
-Utilizei o comando `dirb http://fakebank.thm` para procurar diretórios e páginas escondidas no site. Depois, acessei o painel administrativo encontrado e realizei uma operação no banco fictício para concluir o desafio.
+Executei o comando `dirb http://fakebank.thm` para localizar diretórios e páginas disponíveis no site. Com os resultados, encontrei o painel administrativo e realizei a operação solicitada pelo desafio.
 
 **Ferramenta utilizada:**
+
 - Dirb.
 
-**Prints da atividade:** disponíveis na pasta `screenshots`.
+**Prints da atividade:**
+
+As evidências da atividade prática estão disponíveis abaixo:
+
+![Execução do DIRB](screenshots/01-dirb-terminal.png)
+
+![Painel administrativo do FakeBank](screenshots/02-painel-administrativo.png)
+
+![Resultado final da atividade](screenshots/03-resultado-final.png)
 
 ### 2. Introdução à Segurança Defensiva
 
-[Acessar sala no TryHackMe](https://tryhackme.com/room/defensivesecurityintro)
-
-Nesta sala, o conteúdo apresenta como funciona a parte defensiva da cibersegurança e como são identificadas e tratadas possíveis ameaças.
-
-**Assuntos estudados:**
-
-- Inteligência de Ameaças (Threat Intelligence).
-- Centro de Operações de Segurança (SOC).
-- Resposta a Incidentes e Forense Digital (DFIR).
-- Análise de Malware.
-- SIEM.
-
-### 3. Carreiras em Cibersegurança
-
-[Acessar sala no TryHackMe](https://tryhackme.com/room/careersincyber)
-
-Nesta sala, conheci algumas das possibilidades de trabalho na área de cibersegurança e as diferentes funções que um profissional pode exercer.
-
-## Revisão
-
-[Resumo do módulo no TryHackMe](https://tryhackme.com/recap/6aee23b583c77f0a478147ce)
-
-## Organização dos arquivos
-
-Os prints das atividades práticas ficam armazenados na pasta `screenshots`.
-
-Revisão dos conhecimentos abordados durante o módulo.
+[Acessar sala no TryHackMe](https://tryhackme.com/room/def
