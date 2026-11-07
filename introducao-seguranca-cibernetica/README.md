@@ -1,6 +1,6 @@
 # Introdução à Segurança Cibernética
 
-Este é o primeiro módulo da trilha Pre Security do TryHackMe. Nele, tive meu primeiro contato com a área de cibersegurança, conhecendo conceitos de segurança ofensiva, segurança defensiva e algumas das possibilidades de carreira.
+Este é o primeiro módulo da trilha Pre Security do TryHackMe. Nele, tive meu primeiro contato com a área de cibersegurança, conhecendo conceitos de segurança ofensiva, segurança defensiva e algumas possibilidades de carreira.
 
 ## Salas do módulo
 
@@ -26,16 +26,18 @@ Executei o comando `dirb http://fakebank.thm` para localizar diretórios e pági
 
 - Dirb.
 
-**Prints da atividade:**
-
-As evidências da atividade prática estão disponíveis abaixo:
-
-![Execução do DIRB](screenshots/01-dirb-terminal.png)
-
-![Painel administrativo do FakeBank](screenshots/02-painel-administrativo.png)
-
-![Resultado final da atividade](screenshots/03-resultado-final.png)
-
 ### 2. Introdução à Segurança Defensiva
 
-[Acessar sala no TryHackMe](https://tryhackme.com/room/def
+[Acessar sala no TryHackMe](https://tryhackme.com/room/defensivesecurityintro)
+
+Nesta sala, são apresentados conceitos relacionados à segurança defensiva e às formas de identificar, analisar e responder a possíveis ameaças.
+
+**Assuntos estudados:**
+
+- Inteligência de Ameaças (Threat Intelligence).
+- Centro de Operações de Segurança (SOC).
+- Resposta a Incidentes e Forense Digital (DFIR).
+- Análise de Malware.
+- SIEM.
+
+### 3. Carreiras
